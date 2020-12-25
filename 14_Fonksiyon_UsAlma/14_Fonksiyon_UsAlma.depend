@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604852588 source:c:\users\firat\desktop\c_repos\14_fonksiyon_usalma\main.c
+	<stdio.h>
+	<stdlib.h>
+

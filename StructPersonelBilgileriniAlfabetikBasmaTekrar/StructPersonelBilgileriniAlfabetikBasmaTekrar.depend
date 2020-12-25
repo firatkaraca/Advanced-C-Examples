@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608501379 source:c:\users\firat\desktop\c_repos\structpersonelbilgilerinialfabetikbasmatekrar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

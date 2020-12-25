@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606937732 source:c:\users\firat\desktop\c_repos\42_dowhileornek\main.c
+	<stdio.h>
+	<stdlib.h>
+

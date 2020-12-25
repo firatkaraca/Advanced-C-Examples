@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604323974 source:c:\users\firat\desktop\c_repos\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606932756 source:c:\users\firat\desktop\c_repos\palindorm\main.c
+	<stdio.h>
+	<stdlib.h>
+

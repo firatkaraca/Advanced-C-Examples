@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606580921 source:c:\users\firat\desktop\c_repos\baklavatekrar\main.c
+	<stdio.h>
+	<stdlib.h>
+

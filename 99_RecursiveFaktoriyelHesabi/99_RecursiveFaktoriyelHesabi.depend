@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608830287 source:c:\users\firat\desktop\c_repos\99_recursivefaktoriyelhesabi\main.c
+	<stdio.h>
+	<stdlib.h>
+

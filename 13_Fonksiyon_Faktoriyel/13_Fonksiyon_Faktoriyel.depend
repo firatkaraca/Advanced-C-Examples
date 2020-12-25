@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604845498 source:c:\users\firat\desktop\c_repos\13_fonksiyon_faktoriyel\main.c
+	<stdio.h>
+	<stdlib.h>
+

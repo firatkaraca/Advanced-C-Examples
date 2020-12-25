@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605361994 source:c:\users\firat\desktop\c_repos\21_fonksiyonfibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603465678 source:c:\users\firat\desktop\karakterdizisiegzersiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607704356 source:c:\users\firat\desktop\c_repos\62_pointerkarakterdizisiharfyoketme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

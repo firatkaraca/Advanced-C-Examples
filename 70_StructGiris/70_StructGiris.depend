@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607868282 source:c:\users\firat\desktop\c_repos\70_structgiris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

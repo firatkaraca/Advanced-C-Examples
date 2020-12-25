@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605552762 source:c:\users\firat\desktop\c_repos\25_fonksiyonbaklavadilimicizme\main.c
+	<stdio.h>
+	<stdlib.h>
+

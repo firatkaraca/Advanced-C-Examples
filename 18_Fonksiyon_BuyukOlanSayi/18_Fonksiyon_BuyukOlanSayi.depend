@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605289809 source:c:\users\firat\desktop\c_repos\18_fonksiyon_buyukolansayi\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602878900 source:c:\users\firat\desktop\ilkprogramim\main.c
+	<stdio.h>
+	<stdlib.h>
+
